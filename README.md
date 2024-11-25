@@ -1,1 +1,1 @@
-# git_introduction
+# seminar_test
